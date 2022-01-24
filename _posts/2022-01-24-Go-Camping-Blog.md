@@ -1,2 +1,1 @@
-_posts/2022-01-24-title.md
 Welcome to my blog all about how to safely prepare for a camping excursion!
